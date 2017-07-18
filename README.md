@@ -6,3 +6,5 @@ You can use any part of this code in your projects if you wish. Popularize cool 
 
 Unicode & UNIVERSAL A=1, B=2,C=3	Z=26, 0=0, 1=1,		encodings are popular in digitall worLd, and digitall world is valuable only when it's filled with wise content.
 Have fun
+
+Okey, naturally the code uses fonts from your system. Fonts can have more or less characters - if necessary install new fonts.
