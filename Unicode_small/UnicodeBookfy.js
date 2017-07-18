@@ -348,14 +348,14 @@ function flushBraecket(dB, dBrests){
 				dB[theCounter]=Math.floor(dB[theCounter]);
 
 			}else{
-				dBrests[dBrests.length]=(10*fltRest)%2; //JavaScript specific - writing after table end, extend table - copy paste with caution my friend
+				dBrests[dBrests.length]=(10*fltRest)%2; //JavaScript specific - writing after table end, extend table - often change unevitable here while inserting into other languages {timesaveing comment}+-1
 				dB[theCounter]=Math.floor(dB[theCounter]);
 
 			}
 		}
 		if(fltRest<=epsilon){
 			if (theCounter>=dB.length-1){
-				dBrests[dBrests.length]=0; //JavaScript specific - writing after table end, extend table - copy paste with caution my friend
+				dBrests[dBrests.length]=0; //JavaScript specific - writing after table end, extend table - often change unevitable here while inserting into other languages {timesaveing comment}+-1
 			}
 		}
 	}
