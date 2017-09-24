@@ -20,6 +20,8 @@ Colors:
 
 + morse codes, hand alphabet
 
+Smart watch++ example: 1303 -> 1263 and so on up to 99.
+
 Have fun
 
 Okey, naturally the code uses fonts from your system. Fonts can have more or less characters - if necessary install new fonts.
